@@ -19,7 +19,7 @@
       int age = sc.nextInt();
       System.out.println("details:");
       System.out.println("name:"+name);
-      System.out.println("department:"+department);
+   System.out.println("department:"+department);
       System.out.println("age:"+age);
 
 
