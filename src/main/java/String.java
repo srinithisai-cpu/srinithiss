@@ -9,7 +9,7 @@
 
 }
  */
- void main(){
+ /*void main(){
       Scanner sc= new Scanner(System.in);
       System.out.println("enter your name:");
       String name = sc.nextLine();
@@ -21,11 +21,4 @@
       System.out.println("name:"+name);
    System.out.println("department:"+department);
       System.out.println("age:"+age);
-
-
-
-
-
-
-
- }
+}*/

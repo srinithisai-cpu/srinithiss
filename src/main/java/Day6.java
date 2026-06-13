@@ -36,5 +36,5 @@ class Main {
         p.transfer(2000);
     }
 }
-
+     
 
