@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+/*import java.util.ArrayList;
     public class Day10{
         public static void main(){
             ArrayList<String> students = new ArrayList<>();
@@ -17,11 +17,11 @@ import java.util.ArrayList;
                 System.out.println(s);
             }
         }
-    }
+    }/*
 
 
 
-import java.util.LinkedList;
+/*import java.util.LinkedList;
 public class Day10 {
     static void process(LinkedList<String> queue) {
         System.out.println("Removed:" + queue.removeFirst());
@@ -54,6 +54,6 @@ static void main() {
         process(list);
     }
 }
-
+*/
 
 
