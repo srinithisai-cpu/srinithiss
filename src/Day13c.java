@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Day13c {
     static void main() {
-        Path path = Path.of("files", "studentgit.csv");
+        Path path = Path.of("files", "student.csv");
         try {
             List<String> students = Files.readAllLines(path);
 
