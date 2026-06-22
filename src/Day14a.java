@@ -25,6 +25,6 @@ public class Day14a {
     static void main(){
         Day14a factory = new Day14a();
         String type = "WhatsApp";
-        getNotification(factory,type).send("1233456789","Hello world");
+        getNotification(factory,type).send("1233456789","Hello deepu");
     }
 }
